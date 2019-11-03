@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Top News</string>
+
+    <string name="general_fragment">General</string>
+    <string name="science_fragment">Science</string>
+    <string name="sports_fragment">Sports</string>
+    <string name="health_fragment">Health</string>
+    <string name="countries_label">Select The Country You Want To Follow Its News</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="url_to_image" translatable="false">urlToImage</string>
+    <string name="article_title" translatable="false">title</string>
+    <string name="article_writer" translatable="false">author</string>
+    <string name="article_description" translatable="false">description</string>
+    <string name="article_url" translatable="false">url</string>
+    <string name="article_array">articles</string>
+    <string name="writer">Writer :</string>
+    <string name="full_article">full article</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgot_password_details">we just need your registered email id to send you password reset instructions</string>
+    <string name="email">Email</string>
+    <string name="reset_password">Reset password</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="sign_up_now">Sign up now</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_a_member">Already a member?</string>
+    <string name="login_now">Login now</string>
+    <string name="top_news_intro">Get breaking news headlines, and search for articles from over 30,000</string>
+</resources>

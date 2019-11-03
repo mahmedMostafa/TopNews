@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--we have to put collapseActionView so that the search expands to the whole action bar-->
+    <!--we also have to put the actionViewClass which will turn the menu icon
+    into the search view when we click it -->
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+    />
+
+    <item
+        android:id="@+id/action_change_country"
+        android:title="Change Country"
+        app:showAsAction="never"/>
+
+</menu>
